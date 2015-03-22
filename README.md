@@ -3,12 +3,11 @@ Getting and Cleaning Data Course Project
 =========================================================================
 Data Cleaning Project using
 Human Activity Recognition Using Smartphones Dataset
-=========================================================================
+-------------------------------------------------------------------------
 Yap Pow Look
 Data Science Specialization Course
 Getting and Cleaning Data
 21st March 2015
-
 =========================================================================
 
 This project describe the process of cleaning the abovementioned data and outline the necessary steps and procedures anyone who will like to use this process to clean the data
@@ -27,7 +26,6 @@ When the zip folder is unzipped, you will see the following files and sub-folder
 In your data clean process, please see the directory of these files and folder as your working directory.
 
 The directory includes the following files:
-=========================================
 
 - 'README.txt' : explanation about the data collection project 
 
@@ -57,8 +55,6 @@ Description of files in the test sub-folder :
 
 
 Click on the train sub-folder and you will see these files and folder
-
- 
 
 
 - 'X_train.txt': Training set.
@@ -90,20 +86,19 @@ For more information about this dataset contact: activityrecognition@smartlab.ws
 
 The following are the files found in the Git-hub folder from which you have download this README file. The files available in Git-hub are the following :
 
-a.	README – Cleaning Data.rtf
+a.	README – TidyData.pdf
 
 b.	run_analysis.R : Download this file to your local working directory and execute the as source in your R Console. The version of the R you are running should be R Version 3.1.1 and later.
 
-c.	Data Dictionary of the variables found in the data. 
+c.	Codebook - Data Dictionary of the variables found in the data. 
 
 
 3.	Results files
 
-If you are to execute the run_analysis.R script, you will also have 2 files generated in your working directory. They are :
+If you are to execute the run_analysis.R script, you will also have a file generated in your working directory. It is :
 
-a.	Final_table.csv
+a.	TidyData.txt
 
-b.	Clean data.csv
 
 
 
