@@ -1,4 +1,4 @@
-# CleaningData
+TidyData
 Getting and Cleaning Data Course Project
 =========================================================================
 Data Cleaning Project using
@@ -8,7 +8,7 @@ Yap Pow Look
 Data Science Specialization Course
 Getting and Cleaning Data
 21st March 2015
-=========================================================================
+-------------------------------------------------------------------------
 
 This project describe the process of cleaning the abovementioned data and outline the necessary steps and procedures anyone who will like to use this process to clean the data
 
@@ -75,7 +75,7 @@ The following files are available in the test and train Inertial folders. Their 
 - '../Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
 Notes: 
-======
+-----
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
 
@@ -98,9 +98,6 @@ c.	Codebook - Data Dictionary of the variables found in the data.
 If you are to execute the run_analysis.R script, you will also have a file generated in your working directory. It is :
 
 a.	TidyData.txt
-
-
-
 
 
 License:
